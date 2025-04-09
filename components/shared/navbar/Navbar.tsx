@@ -18,7 +18,7 @@ function Navbar() {
         />
 
         <p className="h2-bold font-spaceGrotesk text-dark-100 dark:text-light-900 max-sm:hidden">
-          Fake <span className="text-primary-500">Overflow</span>
+          Hull <span className="text-primary-500">Overflow</span>
         </p>
       </Link>
 
@@ -35,7 +35,7 @@ function Navbar() {
                 avatarBox: "h-10 w-10",
               },
               variables: {
-                colorPrimary: "#ff7000",
+                colorPrimary: "#006eff",
               },
             }}
           />

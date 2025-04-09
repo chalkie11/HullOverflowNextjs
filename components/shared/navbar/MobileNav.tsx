@@ -78,7 +78,7 @@ const MobileNav = () => {
           />
 
           <p className="h2-bold text-dark100_light900 font-spaceGrotesk">
-            Fake <span className="text-primary-500">Overflow</span>
+            Hull <span className="text-primary-500">Overflow</span>
           </p>
         </Link>
         <div>
